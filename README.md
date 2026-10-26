@@ -1,6 +1,12 @@
-DSH-icon-rotator-kit —— DeepSeek Harness 四季图标轮换（迁移安装包 v2）
+DSH-icon-rotator-kit —— DeepSeek Harness 
 
 适用：Windows 10 / 11，已安装 DeepSeek Harness，普通用户账号（无需管理员）。
+
+部分二次元形象来自https://space.bilibili.com/4168597   ZipZipPipe
+
+<img width="200" height="200" alt="C02_DeepSeek_fullbody" src="https://github.com/user-attachments/assets/4b03a8af-a2b9-4b08-a641-1a4056f58dbb" />
+<img width="200" height="200" alt="C04_Qwen_fullbody" src="https://github.com/user-attachments/assets/b6237aac-414d-41f9-afe0-dcb8f4a1a84d" />
+<img width="200" height="200" alt="C08_Mistral_fullbody" src="https://github.com/user-attachments/assets/a7debc7d-ed62-4e0d-bcd8-e8c016391663" />
 
 安装（每台电脑、每个 Windows 用户只需一次）
 
